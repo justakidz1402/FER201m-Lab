@@ -1,0 +1,37 @@
+.des{
+    color: white;
+    padding: 50px;
+}
+
+.jumbotron{
+    background-color: rgb(169, 94, 239) !important;
+    justify-content: center;
+    padding: 60px;
+}
+
+.our-history, .corporate{
+    margin-left: 15px;
+    padding: 50px 0;
+}
+
+.footer{
+    background-color: rgb(212, 167, 255);
+    padding: 20px 0;
+}
+
+h3 small{
+    font-weight: normal;
+    font-size: large;
+}
+
+.footer a{
+    text-decoration: none;
+}
+
+.footer .text-center{
+    padding: 50px;
+}
+
+/* .alert-span{
+    color: red;
+} */
